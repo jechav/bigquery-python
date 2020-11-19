@@ -1,0 +1,10 @@
+pandas
+google-cloud-bigquery[pandas]
+google-cloud-bigquery-storage
+pandas-gbq
+fastavro
+tqdm
+pyarrow
+jupytext
+jupyter
+ipython
