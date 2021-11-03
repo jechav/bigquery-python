@@ -180,6 +180,8 @@ pygments==2.6.1
     #   jupyter-console
     #   nbconvert
     #   qtconsole
+pymysql==1.0.2
+    # via -r requirements.in
 pyrsistent==0.16.0
     # via jsonschema
 python-dateutil==2.8.1
