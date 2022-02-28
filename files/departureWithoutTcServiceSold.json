@@ -1,0 +1,3788 @@
+[
+  {
+    "tc_1_service": "NULL",
+    "code": "asi",
+    "deptid": 77153,
+    "deptstart": "2022-03-18"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "asi",
+    "deptid": 54114,
+    "deptstart": "2022-03-14"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "asi",
+    "deptid": 54108,
+    "deptstart": "2022-03-07"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "chi",
+    "deptid": 63176,
+    "deptstart": "2021-08-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57433,
+    "deptstart": "2016-09-17"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57473,
+    "deptstart": "2016-07-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57430,
+    "deptstart": "2016-06-18"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57442,
+    "deptstart": "2016-05-17"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57438,
+    "deptstart": "2016-05-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57427,
+    "deptstart": "2016-05-14"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57456,
+    "deptstart": "2016-05-09"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57462,
+    "deptstart": "2016-05-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57467,
+    "deptstart": "2016-05-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57477,
+    "deptstart": "2016-04-14"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57446,
+    "deptstart": "2016-04-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57381,
+    "deptstart": "2015-12-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57365,
+    "deptstart": "2015-12-19"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57364,
+    "deptstart": "2015-12-05"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57363,
+    "deptstart": "2015-11-14"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57362,
+    "deptstart": "2015-10-31"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57328,
+    "deptstart": "2015-10-17"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57380,
+    "deptstart": "2015-10-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57334,
+    "deptstart": "2015-10-03"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57379,
+    "deptstart": "2015-09-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57355,
+    "deptstart": "2015-09-05"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57354,
+    "deptstart": "2015-08-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57324,
+    "deptstart": "2015-08-01"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57353,
+    "deptstart": "2015-08-01"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57376,
+    "deptstart": "2015-07-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57352,
+    "deptstart": "2015-07-18"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "eur",
+    "deptid": 57347,
+    "deptstart": "2015-07-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "gre",
+    "deptid": 64134,
+    "deptstart": "2020-09-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "gre",
+    "deptid": 64060,
+    "deptstart": "2020-09-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "gre",
+    "deptid": 62642,
+    "deptstart": "2020-03-08"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "ico",
+    "deptid": 62932,
+    "deptstart": "2020-03-07"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 61970,
+    "deptstart": "2020-03-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 60170,
+    "deptstart": "2020-03-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 60338,
+    "deptstart": "2020-03-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 59271,
+    "deptstart": "2019-11-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 59337,
+    "deptstart": "2019-11-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 60850,
+    "deptstart": "2019-11-05"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 59266,
+    "deptstart": "2019-11-02"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 59749,
+    "deptstart": "2019-10-26"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 60002,
+    "deptstart": "2019-10-23"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 59850,
+    "deptstart": "2019-10-19"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 59862,
+    "deptstart": "2019-10-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 59335,
+    "deptstart": "2019-10-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 59238,
+    "deptstart": "2019-10-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 59237,
+    "deptstart": "2019-09-29"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 59333,
+    "deptstart": "2019-09-26"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 59281,
+    "deptstart": "2019-08-03"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 59282,
+    "deptstart": "2019-07-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 59331,
+    "deptstart": "2019-05-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 58710,
+    "deptstart": "2019-05-18"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 59849,
+    "deptstart": "2019-05-11"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 59325,
+    "deptstart": "2019-05-05"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 58709,
+    "deptstart": "2019-05-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 59632,
+    "deptstart": "2019-04-25"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 59324,
+    "deptstart": "2019-04-09"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 58708,
+    "deptstart": "2019-04-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 58707,
+    "deptstart": "2019-03-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 59610,
+    "deptstart": "2019-03-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 58706,
+    "deptstart": "2019-03-02"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 57628,
+    "deptstart": "2018-11-03"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 59149,
+    "deptstart": "2018-10-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 57768,
+    "deptstart": "2018-09-29"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 57765,
+    "deptstart": "2018-05-26"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 57624,
+    "deptstart": "2018-05-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "jap",
+    "deptid": 57623,
+    "deptstart": "2018-03-03"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 59572,
+    "deptstart": "2020-02-18"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 61247,
+    "deptstart": "2020-02-14"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 59510,
+    "deptstart": "2020-01-31"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 59570,
+    "deptstart": "2020-01-14"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 58856,
+    "deptstart": "2019-11-05"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 57945,
+    "deptstart": "2019-03-19"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 58984,
+    "deptstart": "2019-03-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 57944,
+    "deptstart": "2019-02-19"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 59352,
+    "deptstart": "2019-02-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 57874,
+    "deptstart": "2019-01-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 57221,
+    "deptstart": "2018-04-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 57219,
+    "deptstart": "2018-02-20"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 57215,
+    "deptstart": "2018-01-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 57124,
+    "deptstart": "2017-03-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 57123,
+    "deptstart": "2017-02-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 57122,
+    "deptstart": "2017-01-24"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 57100,
+    "deptstart": "2016-12-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 57099,
+    "deptstart": "2016-11-29"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 57079,
+    "deptstart": "2016-11-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 57098,
+    "deptstart": "2016-11-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 57078,
+    "deptstart": "2016-11-08"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 57075,
+    "deptstart": "2016-05-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 57074,
+    "deptstart": "2016-04-28"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 57071,
+    "deptstart": "2016-04-07"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 57073,
+    "deptstart": "2016-03-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 57081,
+    "deptstart": "2016-03-08"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 57072,
+    "deptstart": "2016-02-25"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 57080,
+    "deptstart": "2016-02-07"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "pur",
+    "deptid": 57059,
+    "deptstart": "2016-01-14"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 65016,
+    "deptstart": "2022-07-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 65012,
+    "deptstart": "2022-04-02"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50098,
+    "deptstart": "2020-05-23"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50102,
+    "deptstart": "2020-05-23"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 58275,
+    "deptstart": "2020-02-07"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 58422,
+    "deptstart": "2019-10-19"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 58421,
+    "deptstart": "2019-09-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 58418,
+    "deptstart": "2019-07-20"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 58138,
+    "deptstart": "2019-06-28"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 58622,
+    "deptstart": "2019-03-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 55720,
+    "deptstart": "2018-10-31"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 55719,
+    "deptstart": "2018-09-26"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 55718,
+    "deptstart": "2018-08-01"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 55717,
+    "deptstart": "2018-07-18"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 55716,
+    "deptstart": "2018-03-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 53651,
+    "deptstart": "2017-11-20"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 53637,
+    "deptstart": "2017-10-28"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 53834,
+    "deptstart": "2017-10-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 53634,
+    "deptstart": "2017-09-23"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 53513,
+    "deptstart": "2017-09-11"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 53632,
+    "deptstart": "2017-08-05"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 53833,
+    "deptstart": "2017-08-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 53512,
+    "deptstart": "2017-07-24"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 53631,
+    "deptstart": "2017-07-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 53630,
+    "deptstart": "2017-05-20"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 53511,
+    "deptstart": "2017-05-08"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 53573,
+    "deptstart": "2017-02-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 53528,
+    "deptstart": "2017-01-09"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51520,
+    "deptstart": "2016-10-29"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 52934,
+    "deptstart": "2016-09-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51518,
+    "deptstart": "2016-08-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51517,
+    "deptstart": "2016-08-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51516,
+    "deptstart": "2016-07-30"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51515,
+    "deptstart": "2016-05-07"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51857,
+    "deptstart": "2016-03-19"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51822,
+    "deptstart": "2016-02-29"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51870,
+    "deptstart": "2016-01-11"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 52448,
+    "deptstart": "2015-12-26"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 52482,
+    "deptstart": "2015-12-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 52204,
+    "deptstart": "2015-11-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51973,
+    "deptstart": "2015-11-20"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 52500,
+    "deptstart": "2015-11-09"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 52252,
+    "deptstart": "2015-11-01"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 52239,
+    "deptstart": "2015-10-31"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51062,
+    "deptstart": "2015-10-31"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51767,
+    "deptstart": "2015-10-29"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 52027,
+    "deptstart": "2015-10-26"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 52023,
+    "deptstart": "2015-10-20"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 52230,
+    "deptstart": "2015-10-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50891,
+    "deptstart": "2015-10-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51938,
+    "deptstart": "2015-10-09"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51939,
+    "deptstart": "2015-10-09"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 52045,
+    "deptstart": "2015-10-05"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 52048,
+    "deptstart": "2015-10-05"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 52047,
+    "deptstart": "2015-10-05"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 52392,
+    "deptstart": "2015-10-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51998,
+    "deptstart": "2015-09-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 52381,
+    "deptstart": "2015-09-26"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 52279,
+    "deptstart": "2015-09-24"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 52280,
+    "deptstart": "2015-09-24"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51896,
+    "deptstart": "2015-09-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51145,
+    "deptstart": "2015-09-11"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51895,
+    "deptstart": "2015-09-09"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50947,
+    "deptstart": "2015-09-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 52142,
+    "deptstart": "2015-09-03"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50890,
+    "deptstart": "2015-08-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51977,
+    "deptstart": "2015-08-17"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 52127,
+    "deptstart": "2015-08-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 52026,
+    "deptstart": "2015-08-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 52025,
+    "deptstart": "2015-08-09"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51442,
+    "deptstart": "2015-08-09"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 52056,
+    "deptstart": "2015-08-08"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51162,
+    "deptstart": "2015-08-08"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51757,
+    "deptstart": "2015-08-02"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51067,
+    "deptstart": "2015-07-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50743,
+    "deptstart": "2015-07-26"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50889,
+    "deptstart": "2015-07-25"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51993,
+    "deptstart": "2015-07-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51440,
+    "deptstart": "2015-07-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51961,
+    "deptstart": "2015-07-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51925,
+    "deptstart": "2015-07-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51936,
+    "deptstart": "2015-06-28"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51194,
+    "deptstart": "2015-06-28"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51937,
+    "deptstart": "2015-06-18"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51306,
+    "deptstart": "2015-06-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51191,
+    "deptstart": "2015-06-07"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51439,
+    "deptstart": "2015-05-30"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51769,
+    "deptstart": "2015-05-28"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51260,
+    "deptstart": "2015-05-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51186,
+    "deptstart": "2015-05-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51885,
+    "deptstart": "2015-05-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51816,
+    "deptstart": "2015-05-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51251,
+    "deptstart": "2015-05-03"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51481,
+    "deptstart": "2015-04-30"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51184,
+    "deptstart": "2015-04-26"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51202,
+    "deptstart": "2015-04-25"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51875,
+    "deptstart": "2015-04-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51435,
+    "deptstart": "2015-04-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51200,
+    "deptstart": "2015-04-11"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50741,
+    "deptstart": "2015-03-29"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51365,
+    "deptstart": "2015-03-14"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51068,
+    "deptstart": "2015-03-02"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51248,
+    "deptstart": "2015-02-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51209,
+    "deptstart": "2015-02-17"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51283,
+    "deptstart": "2015-02-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51219,
+    "deptstart": "2015-02-14"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51161,
+    "deptstart": "2015-02-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51382,
+    "deptstart": "2015-02-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51132,
+    "deptstart": "2015-02-09"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51158,
+    "deptstart": "2015-02-05"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51172,
+    "deptstart": "2015-01-24"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50931,
+    "deptstart": "2015-01-19"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51133,
+    "deptstart": "2015-01-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 51163,
+    "deptstart": "2015-01-01"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50713,
+    "deptstart": "2014-12-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50907,
+    "deptstart": "2014-10-18"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50166,
+    "deptstart": "2014-10-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50215,
+    "deptstart": "2014-10-11"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50237,
+    "deptstart": "2014-10-11"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50297,
+    "deptstart": "2014-09-28"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50505,
+    "deptstart": "2014-09-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50115,
+    "deptstart": "2014-09-14"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50161,
+    "deptstart": "2014-09-11"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50236,
+    "deptstart": "2014-08-30"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50290,
+    "deptstart": "2014-08-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50211,
+    "deptstart": "2014-08-02"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50158,
+    "deptstart": "2014-07-31"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50152,
+    "deptstart": "2014-06-08"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50720,
+    "deptstart": "2014-02-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50046,
+    "deptstart": "2014-01-24"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50289,
+    "deptstart": "2014-01-20"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50492,
+    "deptstart": "2013-12-30"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50479,
+    "deptstart": "2013-12-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50468,
+    "deptstart": "2013-12-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50469,
+    "deptstart": "2013-12-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50582,
+    "deptstart": "2013-11-20"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 29357,
+    "deptstart": "2013-11-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50606,
+    "deptstart": "2013-11-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50558,
+    "deptstart": "2013-10-28"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50539,
+    "deptstart": "2013-10-28"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 29402,
+    "deptstart": "2013-10-26"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50565,
+    "deptstart": "2013-10-25"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50394,
+    "deptstart": "2013-10-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 29437,
+    "deptstart": "2013-10-11"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50270,
+    "deptstart": "2013-10-05"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50430,
+    "deptstart": "2013-10-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 29391,
+    "deptstart": "2013-09-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 29395,
+    "deptstart": "2013-09-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50540,
+    "deptstart": "2013-09-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50434,
+    "deptstart": "2013-09-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 29436,
+    "deptstart": "2013-09-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50096,
+    "deptstart": "2013-09-09"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50268,
+    "deptstart": "2013-09-08"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 24014,
+    "deptstart": "2013-09-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50101,
+    "deptstart": "2013-09-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50271,
+    "deptstart": "2013-09-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50001,
+    "deptstart": "2013-09-02"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50577,
+    "deptstart": "2013-08-30"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50472,
+    "deptstart": "2013-08-25"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50567,
+    "deptstart": "2013-08-17"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50462,
+    "deptstart": "2013-08-09"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50273,
+    "deptstart": "2013-08-07"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50486,
+    "deptstart": "2013-08-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 29400,
+    "deptstart": "2013-08-03"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50476,
+    "deptstart": "2013-07-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 38015,
+    "deptstart": "2013-07-20"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50095,
+    "deptstart": "2013-07-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50426,
+    "deptstart": "2013-07-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50526,
+    "deptstart": "2013-07-14"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50424,
+    "deptstart": "2013-07-08"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50478,
+    "deptstart": "2013-06-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50094,
+    "deptstart": "2013-06-02"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50525,
+    "deptstart": "2013-05-31"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 29393,
+    "deptstart": "2013-05-19"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50414,
+    "deptstart": "2013-05-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50396,
+    "deptstart": "2013-05-03"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49899,
+    "deptstart": "2013-05-02"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50475,
+    "deptstart": "2013-05-01"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50269,
+    "deptstart": "2013-04-28"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50019,
+    "deptstart": "2013-04-28"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 29398,
+    "deptstart": "2013-04-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50024,
+    "deptstart": "2013-04-20"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50066,
+    "deptstart": "2013-04-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50090,
+    "deptstart": "2013-04-07"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50023,
+    "deptstart": "2013-03-23"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50395,
+    "deptstart": "2013-03-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50272,
+    "deptstart": "2013-03-05"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49987,
+    "deptstart": "2013-03-03"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49989,
+    "deptstart": "2013-03-02"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49901,
+    "deptstart": "2013-03-01"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49900,
+    "deptstart": "2013-03-01"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49877,
+    "deptstart": "2013-02-17"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49876,
+    "deptstart": "2013-02-02"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50010,
+    "deptstart": "2013-01-30"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 18568,
+    "deptstart": "2013-01-20"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 41424,
+    "deptstart": "2013-01-17"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 50025,
+    "deptstart": "2013-01-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49902,
+    "deptstart": "2013-01-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49897,
+    "deptstart": "2012-12-26"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49684,
+    "deptstart": "2012-12-24"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49895,
+    "deptstart": "2012-12-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49982,
+    "deptstart": "2012-12-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49969,
+    "deptstart": "2012-12-17"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49878,
+    "deptstart": "2012-12-17"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15681,
+    "deptstart": "2012-12-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49868,
+    "deptstart": "2012-12-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 37211,
+    "deptstart": "2012-12-03"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49936,
+    "deptstart": "2012-12-01"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49937,
+    "deptstart": "2012-11-30"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49935,
+    "deptstart": "2012-11-29"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15674,
+    "deptstart": "2012-11-29"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49968,
+    "deptstart": "2012-11-29"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49961,
+    "deptstart": "2012-11-29"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 42900,
+    "deptstart": "2012-11-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 47889,
+    "deptstart": "2012-11-25"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49964,
+    "deptstart": "2012-11-24"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49963,
+    "deptstart": "2012-11-23"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49962,
+    "deptstart": "2012-11-23"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49958,
+    "deptstart": "2012-11-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49908,
+    "deptstart": "2012-11-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49960,
+    "deptstart": "2012-11-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15717,
+    "deptstart": "2012-11-18"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49890,
+    "deptstart": "2012-11-18"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 30736,
+    "deptstart": "2012-11-17"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49872,
+    "deptstart": "2012-11-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15866,
+    "deptstart": "2012-11-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49903,
+    "deptstart": "2012-11-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 20493,
+    "deptstart": "2012-11-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15830,
+    "deptstart": "2012-11-09"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 20547,
+    "deptstart": "2012-11-09"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15685,
+    "deptstart": "2012-11-08"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 48131,
+    "deptstart": "2012-11-08"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15680,
+    "deptstart": "2012-11-05"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15750,
+    "deptstart": "2012-10-31"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49884,
+    "deptstart": "2012-10-31"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49891,
+    "deptstart": "2012-10-31"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49883,
+    "deptstart": "2012-10-31"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49885,
+    "deptstart": "2012-10-31"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49879,
+    "deptstart": "2012-10-30"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49881,
+    "deptstart": "2012-10-30"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49880,
+    "deptstart": "2012-10-30"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49871,
+    "deptstart": "2012-10-28"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49882,
+    "deptstart": "2012-10-28"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49889,
+    "deptstart": "2012-10-25"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49887,
+    "deptstart": "2012-10-25"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49886,
+    "deptstart": "2012-10-25"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49888,
+    "deptstart": "2012-10-25"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49875,
+    "deptstart": "2012-10-19"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49874,
+    "deptstart": "2012-10-18"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 49870,
+    "deptstart": "2012-10-18"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15792,
+    "deptstart": "2012-10-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15837,
+    "deptstart": "2012-10-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 39035,
+    "deptstart": "2012-10-14"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15827,
+    "deptstart": "2012-10-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15839,
+    "deptstart": "2012-10-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 38011,
+    "deptstart": "2012-10-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 43815,
+    "deptstart": "2012-10-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 35531,
+    "deptstart": "2012-09-30"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15716,
+    "deptstart": "2012-09-23"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 18344,
+    "deptstart": "2012-09-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 48613,
+    "deptstart": "2012-09-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15740,
+    "deptstart": "2012-09-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15723,
+    "deptstart": "2012-09-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15826,
+    "deptstart": "2012-09-08"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 38562,
+    "deptstart": "2012-09-02"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 35903,
+    "deptstart": "2012-09-02"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 21985,
+    "deptstart": "2012-08-29"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15821,
+    "deptstart": "2012-08-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 40148,
+    "deptstart": "2012-08-07"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 35660,
+    "deptstart": "2012-08-03"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 18338,
+    "deptstart": "2012-07-31"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15819,
+    "deptstart": "2012-07-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15809,
+    "deptstart": "2012-07-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 27930,
+    "deptstart": "2012-07-25"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15824,
+    "deptstart": "2012-07-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 38007,
+    "deptstart": "2012-07-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 18343,
+    "deptstart": "2012-07-11"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 18363,
+    "deptstart": "2012-07-08"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 18339,
+    "deptstart": "2012-07-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 35470,
+    "deptstart": "2012-06-08"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 29438,
+    "deptstart": "2012-06-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 35659,
+    "deptstart": "2012-06-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 18342,
+    "deptstart": "2012-06-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15715,
+    "deptstart": "2012-05-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 20454,
+    "deptstart": "2012-05-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15835,
+    "deptstart": "2012-05-01"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 18579,
+    "deptstart": "2012-05-01"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15789,
+    "deptstart": "2012-03-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15807,
+    "deptstart": "2012-03-23"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12286,
+    "deptstart": "2012-02-29"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15828,
+    "deptstart": "2012-02-24"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 13170,
+    "deptstart": "2012-02-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15689,
+    "deptstart": "2012-02-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15691,
+    "deptstart": "2012-02-11"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15690,
+    "deptstart": "2012-02-02"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 13168,
+    "deptstart": "2012-02-01"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 13167,
+    "deptstart": "2012-01-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12285,
+    "deptstart": "2012-01-25"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 18351,
+    "deptstart": "2012-01-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 13164,
+    "deptstart": "2012-01-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15816,
+    "deptstart": "2012-01-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15059,
+    "deptstart": "2011-12-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 16930,
+    "deptstart": "2011-12-01"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12175,
+    "deptstart": "2011-11-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15199,
+    "deptstart": "2011-11-26"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15672,
+    "deptstart": "2011-11-23"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 16929,
+    "deptstart": "2011-11-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12219,
+    "deptstart": "2011-11-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12346,
+    "deptstart": "2011-11-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12210,
+    "deptstart": "2011-11-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15766,
+    "deptstart": "2011-11-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 16934,
+    "deptstart": "2011-11-07"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12161,
+    "deptstart": "2011-11-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12306,
+    "deptstart": "2011-10-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 14359,
+    "deptstart": "2011-10-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12359,
+    "deptstart": "2011-10-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 16977,
+    "deptstart": "2011-10-14"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 13238,
+    "deptstart": "2011-10-05"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 13846,
+    "deptstart": "2011-09-30"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 18300,
+    "deptstart": "2011-09-23"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12163,
+    "deptstart": "2011-09-16"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12209,
+    "deptstart": "2011-09-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12305,
+    "deptstart": "2011-09-03"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 18176,
+    "deptstart": "2011-09-01"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15061,
+    "deptstart": "2011-08-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12166,
+    "deptstart": "2011-08-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12358,
+    "deptstart": "2011-08-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 16330,
+    "deptstart": "2011-08-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15921,
+    "deptstart": "2011-08-05"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 14409,
+    "deptstart": "2011-08-01"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12162,
+    "deptstart": "2011-07-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 14442,
+    "deptstart": "2011-07-17"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15185,
+    "deptstart": "2011-07-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12382,
+    "deptstart": "2011-07-02"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12381,
+    "deptstart": "2011-06-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 15904,
+    "deptstart": "2011-05-29"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12372,
+    "deptstart": "2011-05-28"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 13173,
+    "deptstart": "2011-05-14"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12302,
+    "deptstart": "2011-04-23"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12165,
+    "deptstart": "2011-04-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 14410,
+    "deptstart": "2011-04-17"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 14411,
+    "deptstart": "2011-04-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 13032,
+    "deptstart": "2011-04-01"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 14413,
+    "deptstart": "2011-03-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12378,
+    "deptstart": "2011-02-26"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12159,
+    "deptstart": "2011-02-25"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10317,
+    "deptstart": "2011-02-09"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 13033,
+    "deptstart": "2011-01-19"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12326,
+    "deptstart": "2011-01-14"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 13025,
+    "deptstart": "2011-01-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 11401,
+    "deptstart": "2011-01-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10315,
+    "deptstart": "2011-01-05"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10215,
+    "deptstart": "2010-12-17"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 11400,
+    "deptstart": "2010-12-02"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10160,
+    "deptstart": "2010-11-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10363,
+    "deptstart": "2010-11-25"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10267,
+    "deptstart": "2010-11-17"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10345,
+    "deptstart": "2010-11-17"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 11399,
+    "deptstart": "2010-11-17"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10220,
+    "deptstart": "2010-11-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10159,
+    "deptstart": "2010-10-30"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10206,
+    "deptstart": "2010-10-29"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10344,
+    "deptstart": "2010-10-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 11159,
+    "deptstart": "2010-10-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 13031,
+    "deptstart": "2010-10-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 13088,
+    "deptstart": "2010-10-24"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10308,
+    "deptstart": "2010-10-23"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10197,
+    "deptstart": "2010-10-23"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10219,
+    "deptstart": "2010-10-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10422,
+    "deptstart": "2010-10-02"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12987,
+    "deptstart": "2010-09-20"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10155,
+    "deptstart": "2010-09-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12887,
+    "deptstart": "2010-08-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12301,
+    "deptstart": "2010-08-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10214,
+    "deptstart": "2010-08-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10379,
+    "deptstart": "2010-08-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10205,
+    "deptstart": "2010-08-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10366,
+    "deptstart": "2010-07-31"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 11155,
+    "deptstart": "2010-07-17"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10176,
+    "deptstart": "2010-07-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 12325,
+    "deptstart": "2010-07-09"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10151,
+    "deptstart": "2010-07-03"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 11805,
+    "deptstart": "2010-06-11"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10204,
+    "deptstart": "2010-04-23"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10452,
+    "deptstart": "2010-04-09"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10146,
+    "deptstart": "2010-03-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10456,
+    "deptstart": "2010-03-05"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10212,
+    "deptstart": "2010-02-26"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10007,
+    "deptstart": "2010-01-20"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10025,
+    "deptstart": "2010-01-17"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10309,
+    "deptstart": "2010-01-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1996,
+    "deptstart": "2009-12-25"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1994,
+    "deptstart": "2009-12-02"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10358,
+    "deptstart": "2009-11-19"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10121,
+    "deptstart": "2009-11-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10319,
+    "deptstart": "2009-11-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10125,
+    "deptstart": "2009-10-17"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1991,
+    "deptstart": "2009-10-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10130,
+    "deptstart": "2009-09-26"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 2000,
+    "deptstart": "2009-09-18"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1900,
+    "deptstart": "2009-09-18"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10427,
+    "deptstart": "2009-09-08"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1892,
+    "deptstart": "2009-09-05"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1989,
+    "deptstart": "2009-08-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1958,
+    "deptstart": "2009-08-02"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1885,
+    "deptstart": "2009-08-01"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1998,
+    "deptstart": "2009-07-31"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1975,
+    "deptstart": "2009-07-25"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1879,
+    "deptstart": "2009-07-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10086,
+    "deptstart": "2009-05-02"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1970,
+    "deptstart": "2009-03-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1864,
+    "deptstart": "2009-03-20"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1839,
+    "deptstart": "2009-03-07"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1831,
+    "deptstart": "2009-02-07"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10110,
+    "deptstart": "2009-01-30"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1852,
+    "deptstart": "2008-12-26"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1851,
+    "deptstart": "2008-12-19"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10059,
+    "deptstart": "2008-11-25"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1709,
+    "deptstart": "2008-11-19"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10002,
+    "deptstart": "2008-11-14"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1708,
+    "deptstart": "2008-10-24"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10407,
+    "deptstart": "2008-10-20"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 10003,
+    "deptstart": "2008-10-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1844,
+    "deptstart": "2008-09-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1750,
+    "deptstart": "2008-08-03"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1651,
+    "deptstart": "2008-07-18"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1767,
+    "deptstart": "2008-07-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1749,
+    "deptstart": "2008-07-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1635,
+    "deptstart": "2008-03-28"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1679,
+    "deptstart": "2008-03-01"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1677,
+    "deptstart": "2008-02-09"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1488,
+    "deptstart": "2008-01-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1239,
+    "deptstart": "2007-11-23"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1553,
+    "deptstart": "2007-11-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1227,
+    "deptstart": "2007-11-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1225,
+    "deptstart": "2007-11-01"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1085,
+    "deptstart": "2007-10-25"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1357,
+    "deptstart": "2007-10-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1139,
+    "deptstart": "2007-10-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1224,
+    "deptstart": "2007-10-18"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1302,
+    "deptstart": "2007-10-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1222,
+    "deptstart": "2007-10-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1381,
+    "deptstart": "2007-09-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1446,
+    "deptstart": "2007-09-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1219,
+    "deptstart": "2007-09-20"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1338,
+    "deptstart": "2007-09-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1236,
+    "deptstart": "2007-07-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1070,
+    "deptstart": "2007-07-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1233,
+    "deptstart": "2007-07-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1069,
+    "deptstart": "2007-06-23"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1102,
+    "deptstart": "2007-05-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1339,
+    "deptstart": "2007-05-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1242,
+    "deptstart": "2007-04-01"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1238,
+    "deptstart": "2007-03-23"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1135,
+    "deptstart": "2007-03-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 977,
+    "deptstart": "2007-02-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 974,
+    "deptstart": "2007-01-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 971,
+    "deptstart": "2007-01-07"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 968,
+    "deptstart": "2006-12-30"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 960,
+    "deptstart": "2006-11-26"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 764,
+    "deptstart": "2006-11-11"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1063,
+    "deptstart": "2006-11-09"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 788,
+    "deptstart": "2006-11-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1026,
+    "deptstart": "2006-10-26"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 738,
+    "deptstart": "2006-08-23"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 1012,
+    "deptstart": "2006-07-28"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 787,
+    "deptstart": "2006-07-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 774,
+    "deptstart": "2006-05-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 773,
+    "deptstart": "2006-05-20"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 944,
+    "deptstart": "2006-03-24"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 809,
+    "deptstart": "2006-03-08"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 931,
+    "deptstart": "2006-03-01"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 576,
+    "deptstart": "2006-02-11"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 697,
+    "deptstart": "2006-02-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 571,
+    "deptstart": "2006-01-14"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 480,
+    "deptstart": "2005-12-30"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 563,
+    "deptstart": "2005-12-17"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 873,
+    "deptstart": "2005-12-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 678,
+    "deptstart": "2005-11-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 556,
+    "deptstart": "2005-11-05"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 565,
+    "deptstart": "2005-11-05"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 555,
+    "deptstart": "2005-11-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 684,
+    "deptstart": "2005-10-28"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 471,
+    "deptstart": "2005-10-20"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 881,
+    "deptstart": "2005-10-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 671,
+    "deptstart": "2005-10-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 874,
+    "deptstart": "2005-10-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 462,
+    "deptstart": "2005-09-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 670,
+    "deptstart": "2005-08-13"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 451,
+    "deptstart": "2005-08-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 585,
+    "deptstart": "2005-04-30"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 425,
+    "deptstart": "2005-04-21"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 621,
+    "deptstart": "2005-03-11"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 605,
+    "deptstart": "2005-03-11"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 411,
+    "deptstart": "2005-03-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 527,
+    "deptstart": "2005-02-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 408,
+    "deptstart": "2005-02-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 535,
+    "deptstart": "2005-02-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 536,
+    "deptstart": "2005-02-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 312,
+    "deptstart": "2005-01-08"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 259,
+    "deptstart": "2004-12-30"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 306,
+    "deptstart": "2004-11-27"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 378,
+    "deptstart": "2004-11-04"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 292,
+    "deptstart": "2004-10-22"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 252,
+    "deptstart": "2004-10-17"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 262,
+    "deptstart": "2004-10-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 235,
+    "deptstart": "2004-08-14"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 223,
+    "deptstart": "2004-08-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 234,
+    "deptstart": "2004-08-07"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 221,
+    "deptstart": "2004-07-24"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 524,
+    "deptstart": "2004-07-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 394,
+    "deptstart": "2004-05-15"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 197,
+    "deptstart": "2004-03-26"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 359,
+    "deptstart": "2004-03-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 356,
+    "deptstart": "2004-03-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 148,
+    "deptstart": "2004-02-14"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 128,
+    "deptstart": "2004-02-06"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 147,
+    "deptstart": "2004-01-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 143,
+    "deptstart": "2003-12-20"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 126,
+    "deptstart": "2003-11-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 59,
+    "deptstart": "2003-10-02"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 163,
+    "deptstart": "2003-10-02"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 274,
+    "deptstart": "2003-09-20"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 66,
+    "deptstart": "2003-09-01"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 94,
+    "deptstart": "2003-07-31"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 120,
+    "deptstart": "2003-05-30"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 104,
+    "deptstart": "2003-05-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 116,
+    "deptstart": "2003-04-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 117,
+    "deptstart": "2003-04-12"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 24,
+    "deptstart": "2002-10-10"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 8,
+    "deptstart": "2002-10-03"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 7,
+    "deptstart": "2002-08-08"
+  },
+  {
+    "tc_1_service": "NULL",
+    "code": "viv",
+    "deptid": 6,
+    "deptstart": "2002-07-04"
+  }
+]
